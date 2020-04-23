@@ -1,3 +1,7 @@
+## A Wee Note
+
+Used Surge to deploy: http://tense-wrench.surge.sh/
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
