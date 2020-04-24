@@ -20,5 +20,12 @@ export default ({ children }) => (
       </ul>
     </header>
     {children}
+    <footer style={{ marginBottom: `1.5rem` }}>
+    <ul style={{ listStyle: `none`, float: `left` }}>
+        <ListLink to="/">Home</ListLink>
+        <ListLink to="/about/">About</ListLink>
+        <ListLink to="/contact/">Contact</ListLink>
+      </ul>
+    </footer>
   </div>
 )
